@@ -5674,17 +5674,67 @@ Checkout CSS
 /*================================================
 Page Title CSS
 =================================================*/
-.page-title-area {
+.page-title-area1 {
   padding-top: 250px;
   padding-bottom: 110px;
   z-index: 1;
   position: relative;
   background-position: center center;
-  background-image: url(../img/page-title-bg.jpg);
+  background-image: url(../img/dolomite.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+
+.page-title-area2{
+  padding-top: 250px;
+  padding-bottom: 110px;
+  z-index: 1;
+  position: relative;
+  background-position: center center;
+  background-image: url(../img/calcite4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.page-title-area3{
+  padding-top: 250px;
+  padding-bottom: 110px;
+  z-index: 1;
+  position: relative;
+  background-position: center center;
+  background-image: url(../img/lime.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.page-title-area4{
+  padding-top: 250px;
+  padding-bottom: 110px;
+  z-index: 1;
+  position: relative;
+  background-position: center center;
+  background-image: url(../img/calcite4.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.page-title-area5{
+  padding-top: 250px;
+  padding-bottom: 110px;
+  z-index: 1;
+  position: relative;
+  background-position: center center;
+  background-image: url(../img/calc.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
 
 .page-title-area::before {
   content: '';
