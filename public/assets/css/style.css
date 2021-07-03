@@ -2228,6 +2228,7 @@ Testimonials CSS
 .testimonials-slides.owl-theme .owl-nav [class*='owl-']:hover, .testimonials-slides.owl-theme .owl-nav [class*='owl-']:focus {
   background: #ff5202;
   color: #ffffff;
+  
 }
 
 /*testimonials-style-two*/
